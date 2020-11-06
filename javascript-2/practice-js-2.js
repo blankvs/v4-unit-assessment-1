@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = 'I aint got time dawg'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = 'dawg again'
 
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
@@ -33,7 +33,9 @@
     following the guidelines above to describe the init command.
 */
 
-//CODE HERE
+const init = {
+    
+}
 
 //////////////////PROBLEM 4////////////////////
 /*
