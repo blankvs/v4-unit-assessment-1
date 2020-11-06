@@ -17,4 +17,83 @@ h1 {
 
 h2{
     font-size: 20px;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+.areaone {
+    border: solid 1px;
+    height: 250px;
+    width: 200wv;
+    margin: 15px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.rectangle {
+    background-color: lightcoral;
+    height: 70px;
+    width: 150px;
+    border: solid lightgreen 5px;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.square {
+    background: lightgrey;
+    height: 70px; 
+    width: 70px;
+    border: solid 1px;
+    margin-top: -75px;
+    margin-left: 200px;
+    box-shadow: 4px 4px 8px #000000;
+}
+
+.bigsquare {
+    background: rgb(255, 0, 247);
+    height: 150px; 
+    width: 150px;
+    border: solid 1px;
+    margin-top: -150px;
+    margin-left: 300px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+.areatwo {
+    border: solid 1px;
+    height: 450px;
+    width: 200wh;
+    margin: 15px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.snow1 {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.snow2 {
+    background: lightblue;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+}
+
+.snow3 {
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
 }
