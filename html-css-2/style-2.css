@@ -80,6 +80,7 @@ h3 {
     width: 100px;
     height: 100px;
     margin-left: 50px;
+    border: solid 1px cyan;
 }
 
 .snow2 {
@@ -88,6 +89,7 @@ h3 {
     width: 150px;
     height: 150px;
     margin-left: 30px;
+    border: solid 1px cyan;
 }
 
 .snow3 {
@@ -96,4 +98,59 @@ h3 {
     width: 200px;
     height: 200px;
     margin-left: 10px;
+    border: solid 1px cyan;
+}
+
+h4 {
+    font-size: 20px;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+
+.areathree {
+    border: solid 1px;
+    height: 300px;
+    width: 200wh;
+    margin: 15px;
+    margin-top: 0px;
+    
+}
+
+.hugesquare {
+    background: rgb(255, 204, 0);
+    height: 260px; 
+    width: 260px;
+    border: solid 1px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.greencircle {
+    background: rgb(0, 255, 136);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: solid 1px rgb(0, 255, 94);
+}
+
+.tinysquare {
+    background: rgb(171, 76, 255);
+    height: 130px; 
+    width: 130px;
+    border: solid 1px light pink;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.bluecircle {
+    background: rgb(255, 97, 210);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    float: right;
+    margin-top: 110px;
+    padding-right: 35px;
 }
