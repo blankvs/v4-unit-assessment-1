@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.boxheader {
+background-color: lightcoral;
+border: solid 0.5px;
+margin: 0;
+padding: 30px;
+height: 50px;
+}
+
+h1 {
+    float: left;
+    display: block;
+}
+
+li {
+
+    display: inline-block;
+    padding: 15px;
+    padding-top: 10px;
+    
+}
+
+.boxone {
+    margin: 15px;
+    border: solid 5px;
+    border-style: dotted ;
+    padding: 15px;
+    height: 300px;
+    width: 95.5vw;
+}
+
+.textfirst {
+   font-size: 20px;
+   
+}
+
+.imageone {
+    float: left;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.boxtwo {
+    margin: 15px;
+    border: solid 5px;
+    border-style: dotted ;
+    padding: 15px;
+    height: 450px;
+    width: 95.5vw;
+}
+
+.texttwo {
+    font-size: 20px;
+    text-align: left;
+    text-overflow: clip;
+}
