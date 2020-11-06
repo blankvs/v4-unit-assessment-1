@@ -38,16 +38,13 @@ li {
     width: 95.5vw;
 }
 
-.textfirst {
-   font-size: 20px;
-   
-}
-
-.imageone {
+#imageone {
     float: left;
     height: 150px;
     width: 150px;
+    padding: 10px;
     
+   
 }
 
 .boxtwo {
@@ -55,7 +52,7 @@ li {
     border: solid 5px;
     border-style: dotted ;
     padding: 15px;
-    height: 450px;
+    height: 460px;
     width: 95.5vw;
 }
 
@@ -63,4 +60,19 @@ li {
     font-size: 20px;
     text-align: left;
     text-overflow: clip;
+}
+
+#imagetwo {
+    float: left;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 25px;
 }
